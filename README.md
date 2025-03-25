@@ -1,4 +1,4 @@
-# Cognixus Assessment - Backend API
+# Assessment - Backend API
 This project is to demostrate completion of assessment using tools below:
 * Clean code practice
 * Unit tests
